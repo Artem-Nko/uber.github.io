@@ -24,7 +24,7 @@ nav {
     color: #FFFFFF;
     font-size: 15px;
     font-weight: 300;
-    
+    text-decoration: none;
 }
 
 .menu .menu_item {
@@ -72,6 +72,7 @@ nav {
     text-transform: uppercase;
     text-align: right;
     line-height: 12px;
+    text-decoration: none;
 }
 
 .subheader .subheader_btn {
